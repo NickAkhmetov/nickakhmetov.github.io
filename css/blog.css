@@ -1,0 +1,17 @@
+.blog {
+    width: 400px;
+}
+
+blockquote p {
+    font-size: 0.8em !important;
+}
+
+.works-cited p {
+    padding-left: 3em;
+    text-indent: -3em;
+}
+
+.body img {
+    width: 100%;
+    height: auto;
+}
