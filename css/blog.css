@@ -15,3 +15,13 @@ blockquote p {
     width: 100%;
     height: auto;
 }
+
+.lyrics {
+    white-space: pre-wrap;
+    text-align: center;
+}
+
+.center-div {
+    margin: 0 auto;
+    display: table;
+}
