@@ -25,3 +25,7 @@ blockquote p {
     margin: 0 auto;
     display: table;
 }
+
+.card-deck {
+    padding-bottom: 1.25rem;
+}
